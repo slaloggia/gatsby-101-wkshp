@@ -5,7 +5,6 @@ module.exports = {
             resolve: `gatsby-theme-blog`,
             options: {
                 basePath: `/blog`,
-                preset: 'gatsby-theme-ui-sketchy-preset',
                 mdxOtherwiseConfigured: true
             }
         }
