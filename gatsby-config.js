@@ -1,4 +1,8 @@
 module.exports = {
+    siteMetadata:{
+        title: 'Sarah Codes',
+        author: 'Laloggia'
+    },
     plugins: [
         `gatsby-plugin-mdx`,
         {
